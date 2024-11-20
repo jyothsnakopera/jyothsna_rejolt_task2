@@ -1,0 +1,44 @@
+Jyothsna
+Hyderabad, 501218
+jyothsnakopera@gmail.com | 8639869510
+
+Objective
+Hardworking and goal-oriented individual seeking a role as an AI/ML Developer/Engineer to leverage my skills in SQL, Java, Python, C, and Machine Learning to contribute to innovative projects and organizational success.
+
+Education
+Bachelor of Technology (B.Tech), Electronics and Communication Engineering
+Vardhaman College of Engineering, Hyderabad
+[Expected Graduation: Month, Year]
+
+GPA: 9.145
+Intermediate Education
+Tirumala Junior College, Hyderabad
+
+Schooling
+Triveni High School, Hyderabad
+
+Skills
+
+Programming Languages: Java, Python, C
+Machine Learning: Supervised and Unsupervised Learning, Deep Learning
+Databases: SQL
+Tools: [Add any specific tools like TensorFlow, Keras, Jupyter Notebook, etc.]
+Projects
+Handwritten Digit Recognition System
+
+Developed a deep learning-based system to recognize handwritten digits using Convolutional Neural Networks (CNNs).
+Preprocessed data, normalized inputs, and created multiple convolutional layers for robust feature extraction.
+Achieved high accuracy using ReLU and Softmax activation functions, with the Adam optimizer.
+Certifications
+
+Machine Learning Certification
+CITB Company
+Achievements
+
+Maintained a GPA of 9.145 throughout the course.
+
+Interests
+
+Artificial Intelligence and Machine Learning
+Deep Learning Applications
+Problem Solving and Coding
